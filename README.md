@@ -1,6 +1,3 @@
-# Object-Oriented-Programming-lab
-Learning Object Oriented Programming lab, 2nd year semester 4. Name - Naman Dixit SapID - 500125539
-
 # ☕ Object Oriented Programming Lab (Java)
 
 This repository contains Java-based implementations of core **Object Oriented Programming (OOP)** concepts. The lab was conducted as part of the **Object Oriented Programming Lab** in **Year 2, Semester 4** of the B.Tech curriculum.
